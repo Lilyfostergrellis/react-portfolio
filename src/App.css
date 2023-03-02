@@ -1,3 +1,26 @@
+/* Custom Fonts - via GoogleFonts */
+@font-face {
+  font-family: Poppins;
+  src: url('./assets/font/Poppins-Bold.ttf;');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: Poppins;
+  src: url('./assets/font/Poppins-MediumItalic.ttf');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: Poppins;
+  src: url('./assets/font/Poppins-Thin.ttf');
+  font-weight: 400;
+}
+
+/* Default CSS */
+
+
+
 .App {
   text-align: center;
 }
